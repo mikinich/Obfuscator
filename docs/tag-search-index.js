@@ -1,0 +1,1 @@
+tagSearchIndex = [{"l":"Использование","h":"class Obfuscator","d":"Section","u":"Obfuscator.html#--heading1"},{"l":"Ограничения","h":"class Obfuscator","d":"Section","u":"Obfuscator.html#--heading"}];updateSearchResults();

@@ -24,7 +24,7 @@ import java.util.regex.Pattern;
  * java Obfuscator Example.java Utils.java
  * }</pre>
  * 
- * @author [Ваше имя]
+ * @author Павел Бондаренко(Mikinich)
  * @version 1.1
  * @since 2025-12-07
  */
